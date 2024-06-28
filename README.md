@@ -10,3 +10,6 @@
 Geto-Uzumaki/Geto-Uzumaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div align="center">
+<img src="https://camo.githubusercontent.com/132db9fe67808cac183bf065d0a98399b2881dd824e2bcb46b2050c037d83ccb/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3631352f36313534392e676966">
+</div>
